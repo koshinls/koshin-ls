@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="320bc808-17d7-476f-8fd9-f198beaed385" name="Changes" comment="v5-4">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mods/klsconfig/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mods/klsconfig/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="320bc808-17d7-476f-8fd9-f198beaed385" name="Changes" comment="v6" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -237,7 +234,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784258018462</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="v6">
+      <option name="closed" value="true" />
+      <created>1784258880039</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1784258880039</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -249,6 +254,7 @@
     <MESSAGE value="v5-2" />
     <MESSAGE value="v5-3" />
     <MESSAGE value="v5-4" />
-    <option name="LAST_COMMIT_MESSAGE" value="v5-4" />
+    <MESSAGE value="v6" />
+    <option name="LAST_COMMIT_MESSAGE" value="v6" />
   </component>
 </project>
