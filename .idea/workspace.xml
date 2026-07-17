@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="320bc808-17d7-476f-8fd9-f198beaed385" name="Changes" comment="" />
+    <list default="true" id="320bc808-17d7-476f-8fd9-f198beaed385" name="Changes" comment="v1">
+      <change afterPath="$PROJECT_DIR$/.idea/easycode.ignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/easycode/codebase-v2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feedback/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mods/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mods/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mods/klsconfig/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mods/klsconfig/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,29 +29,44 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;koshinls&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/koshinls/koshin-ls.git&quot;,
+    &quot;accountId&quot;: &quot;064b8bdd-d91e-4b2c-ab55-3cdaf605f0eb&quot;
+  }
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.1088199802178311" />
-      <entry key="MS500" value="1.7478642895093142" />
-      <entry key="S2" value="2.8516064989489442" />
-      <entry key="S5" value="3.445226214626789" />
-      <entry key="S10" value="3.7034485882611783" />
-      <entry key="S30" value="3.8993545775278577" />
-      <entry key="S60" value="4.099000181288113" />
-      <entry key="M2" value="5.397665315075666" />
-      <entry key="M5" value="10.252745896703729" />
-      <entry key="M10" value="14.538120769454256" />
-      <entry key="M15" value="16.57791508019223" />
-      <entry key="M30" value="19.035230157166367" />
-      <entry key="H1" value="20.447823913531835" />
-      <entry key="H2" value="21.205596981507348" />
-      <entry key="H4" value="21.59810647169516" />
-      <entry key="D1" value="21.932356225489162" />
-      <entry key="W1" value="21.990320273086013" />
+      <entry key="MS100" value="1.0000015818015018" />
+      <entry key="MS500" value="1.069156084568267" />
+      <entry key="S2" value="1.5129703673997332" />
+      <entry key="S5" value="1.8288873647580721" />
+      <entry key="S10" value="2.409246895152881" />
+      <entry key="S30" value="4.3825283778413695" />
+      <entry key="S60" value="5.684860685446468" />
+      <entry key="M2" value="6.659370736902123" />
+      <entry key="M5" value="7.410111146488441" />
+      <entry key="M10" value="7.873492245233384" />
+      <entry key="M15" value="8.738080904580793" />
+      <entry key="M30" value="12.981803755937852" />
+      <entry key="H1" value="19.849629268090183" />
+      <entry key="H2" value="26.21724782236507" />
+      <entry key="H4" value="30.58452919810198" />
+      <entry key="D1" value="35.014534710642586" />
+      <entry key="W1" value="35.85704302832468" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -64,23 +88,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.0210189314584368" />
-      <entry key="MS500" value="1.7194965477707458" />
-      <entry key="S2" value="2.8389826159115605" />
-      <entry key="S5" value="3.4389253693079236" />
-      <entry key="S10" value="3.7000231076180254" />
-      <entry key="S30" value="3.898125665937593" />
-      <entry key="S60" value="4.097884422385801" />
-      <entry key="M2" value="5.395039684930856" />
-      <entry key="M5" value="10.248568889625568" />
-      <entry key="M10" value="14.534649942446148" />
-      <entry key="M15" value="16.575162472711003" />
-      <entry key="M30" value="19.033589610528185" />
-      <entry key="H1" value="20.446927699458914" />
-      <entry key="H2" value="21.205128507468782" />
-      <entry key="H4" value="21.59786696013096" />
-      <entry key="D1" value="21.932315558313096" />
-      <entry key="W1" value="21.990314444944698" />
+      <entry key="MS100" value="0.9460576467527506" />
+      <entry key="MS500" value="0.9966758593847859" />
+      <entry key="S2" value="1.2936208196941597" />
+      <entry key="S5" value="1.6714470098191088" />
+      <entry key="S10" value="2.2976228728099466" />
+      <entry key="S30" value="4.321587712398883" />
+      <entry key="S60" value="5.648319325392102" />
+      <entry key="M2" value="6.63915512404338" />
+      <entry key="M5" value="7.401487982691037" />
+      <entry key="M10" value="7.86900090394389" />
+      <entry key="M15" value="8.734843680760688" />
+      <entry key="M30" value="12.979613327559102" />
+      <entry key="H1" value="19.848087750782703" />
+      <entry key="H2" value="26.216274091653982" />
+      <entry key="H4" value="30.583973396233805" />
+      <entry key="D1" value="35.014430491720226" />
+      <entry key="W1" value="35.857027826114056" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -88,21 +112,28 @@
   &quot;fromUser&quot;: false
 }</component>
   <component name="ProjectId" id="3GXMvkIxg5omnCu2uPqNWHf9gQT" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/koshin/koshin-ls",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/koshin/koshin-ls&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="koshin-ls" />
@@ -131,6 +162,19 @@
       <option name="presentableId" value="Default" />
       <updated>1784113692826</updated>
     </task>
+    <task id="LOCAL-00001" summary="v1">
+      <option name="closed" value="true" />
+      <created>1784117093271</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1784117093271</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="v1" />
+    <option name="LAST_COMMIT_MESSAGE" value="v1" />
   </component>
 </project>
