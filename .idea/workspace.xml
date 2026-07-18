@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="320bc808-17d7-476f-8fd9-f198beaed385" name="Changes" comment="v6-1-test-2">
+    <list default="true" id="320bc808-17d7-476f-8fd9-f198beaed385" name="Changes" comment="v6-1-test-3">
       <change beforePath="$PROJECT_DIR$/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/about/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -268,7 +268,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784333199960</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="v6-1-test-3">
+      <option name="closed" value="true" />
+      <created>1784333341917</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1784333341917</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -284,6 +292,7 @@
     <MESSAGE value="v6-1" />
     <MESSAGE value="v6-1-test" />
     <MESSAGE value="v6-1-test-2" />
-    <option name="LAST_COMMIT_MESSAGE" value="v6-1-test-2" />
+    <MESSAGE value="v6-1-test-3" />
+    <option name="LAST_COMMIT_MESSAGE" value="v6-1-test-3" />
   </component>
 </project>
